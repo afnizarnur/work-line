@@ -3,8 +3,8 @@
 WL_VCS_PROMPT_PREFIX_1="%{$fg[white]%}on%{$reset_color%} "
 WL_VCS_PROMPT_PREFIX_2=":%{$fg[blue]%}"
 WL_VCS_PROMPT_SUFFIX="%{$reset_color%} "
-WL_VCS_PROMPT_DIRTY=" %{$fg[red]%}😐"
-WL_VCS_PROMPT_CLEAN=" %{$fg[green]%}😊"
+WL_VCS_PROMPT_DIRTY=" %{$fg[red]%}"
+WL_VCS_PROMPT_CLEAN=" %{$fg[green]%}"
 
 local current_dir='${PWD/#$HOME/~}'
 
