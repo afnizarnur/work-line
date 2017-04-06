@@ -1,4 +1,4 @@
-# Work Line ⚡️ ZSH Theme
+# Work Line ZSH Theme
 
 WL_VCS_PROMPT_PREFIX_1="%{$fg[white]%}on%{$reset_color%} "
 WL_VCS_PROMPT_PREFIX_2=":%{$fg[blue]%}"
