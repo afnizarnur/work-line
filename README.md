@@ -6,7 +6,8 @@ An oh-my-zsh shell theme with nice emojis to use at work ⚡️
 ## TODO
 - [ ] Improve code structure
 - [ ] Add more emojis 💪 👩‍ 💻 👨‍ 💼
-- [ ] Add more colors 
+- [ ] Add more colors
+- [ ] Add emoji support on Linux
 
 ## Contribute
 Want to give this theme a makeover? Fork and submit a pull request!
